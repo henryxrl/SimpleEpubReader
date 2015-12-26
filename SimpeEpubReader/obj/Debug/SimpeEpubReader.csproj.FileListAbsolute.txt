@@ -1,0 +1,10 @@
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\bin\Debug\SimpeEpubReader.exe.config
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\bin\Debug\SimpeEpubReader.exe
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\bin\Debug\SimpeEpubReader.pdb
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\bin\Debug\Ionic.Zip.dll
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.MainForm.resources
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.Properties.Resources.resources
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.csproj.GenerateResource.Cache
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.exe
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.pdb
+d:\users\henry\documents\visual studio 2012\Projects\SimpeEpubReader\SimpeEpubReader\obj\Debug\SimpeEpubReader.csprojResolveAssemblyReference.cache
